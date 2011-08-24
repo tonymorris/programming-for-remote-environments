@@ -1,13 +1,17 @@
-personal_ws-1.1 en 28 
+personal_ws-1.1 en 33 
 organization
 waivable
 AUTHORIZED
+OpenStreetMap
 synching
 Ssection
+Garmin
+GPS
 phonogram
 sublicense
 Docbook
 recognizably
+GPX
 Licence
 ShareAlike
 TODO
@@ -22,6 +26,7 @@ dramatico
 MERCHANTIBILITY
 CCPL
 relicensing
+CSx
 WIPO
 synchronization
 Licensor
