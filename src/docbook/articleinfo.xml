@@ -3,8 +3,25 @@
 <!DOCTYPE articleinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
     "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 
-<articleinfo id="DocbookDocumentInfo" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <xi:include href="articleinfo/author/tony.xml"/>
-  <xi:include href="articleinfo/copyright.xml"/>
-  <title id="Title">Docbook Document</title>
+<articleinfo id="ArticleHeader">
+  <abstract id="Abstract">
+    <para>
+      A presentation on using lazy, pure programming in Haskell can be used for performing geodetic algorithms and data
+      manipulation for reliable navigation in remote environments.
+    </para>
+    <para>
+      The audience will be given an introduction to GPS, the OpenStreetMap project and the GPS Exchange (GPX) data format.
+    </para>
+  </abstract>
+  <author id="Author">
+    <firstname>Tony</firstname>
+    <surname>Morris</surname>
+    <address>
+      <email>haskell@tmorris.net</email>
+      <city>Brisbane</city>
+      <state>Queensland</state>
+      <country>Australia</country>
+    </address>
+  </author>
+  <title id="Title">Using Lazy, Pure Programming for Navigating Remote Environments</title>
 </articleinfo>

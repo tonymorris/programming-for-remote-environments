@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<sect1 xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>and this...</title>
+  <para>
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="resources/images/south-from-barney-east-peak.jpg" format="JPG" scalefit="1" width="100%" contentdepth="100%"/>
+      </imageobject>
+      <textobject>
+        <phrase>
+          Looking south from Mount Barney East Peak (1351m)
+        </phrase>
+      </textobject>
+      <caption>
+        <para>
+          Looking south from Mount Barney East Peak (1351m)
+        </para>
+      </caption>
+    </mediaobject>
+  </para>
+</sect1>
