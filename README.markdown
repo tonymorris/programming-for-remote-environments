@@ -1,7 +1,7 @@
-Docbook Document
-================
+Programming for Remote Environments
+===================================
 
-A template from which to create a Docbook document.
+Slides for a talk on programming in remote environments
 
 Setting up
 ==========
