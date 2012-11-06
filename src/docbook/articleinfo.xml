@@ -23,5 +23,11 @@
       <country>Australia</country>
     </address>
   </author>
+  <copyright id="Copyright">
+    <year>2010</year>
+    <holder>
+      Tony Morris
+    </holder>
+  </copyright>
   <title id="Title">Using Lazy, Pure Programming for Navigating Remote Environments</title>
 </articleinfo>
